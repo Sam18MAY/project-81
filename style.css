@@ -1,0 +1,14 @@
+.body_backgorund {
+ background-image: "images.jpg";
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  font-size: 40px;
+}
+
+#myCanvas {
+  background: white;
+  border-style: ridge;
+}
+
